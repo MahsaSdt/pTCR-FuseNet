@@ -27,6 +27,6 @@ The input file must be a CSV (e.g., `case_study.csv`) with the following columns
 Clone this repository and install dependencies:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/MahsaSdt/pTCR-FuseNet/
+cd pTCR-FuseNet
 pip install -r requirements.txt
