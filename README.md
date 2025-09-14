@@ -14,7 +14,7 @@ This repository provides the implementation of **pTCR-FuseNet**, a deep learning
 ---
 
 ## Input Format
-The input file must be a CSV (e.g., `case_study.csv`) with the following columns:
+The input file must be a CSV (e.g., `test.csv`) with the following columns:
 
 - `Peptide_Sequence`  
 - `CDR1_Alpha`, `CDR2_Alpha`, `CDR3_Alpha`  
